@@ -1,0 +1,23 @@
+# 資料集
+/datasets/
+
+# 設定檔
+config/
+
+# 實驗輸出(特徵、匹配結果、重建結果,可重新產生)
+outputs/
+time_info/
+collabloc_time.txt
+
+# 大型資料與模型權重
+third_party/netvlad
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# 系統檔
+.DS_Store
+.claude/settings.local.json

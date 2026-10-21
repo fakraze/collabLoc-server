@@ -1,0 +1,7 @@
+*.pyc
+*.DS_Store
+*.swp
+
+# CollabLoc 自訓練的 SuperGlue3D 權重(2GB / 48MB),不進版控,見根目錄 README_CollabLoc.md
+models/weights/model_epoch_51.pth
+models/weights/model_statedict_epoch_51.pth
