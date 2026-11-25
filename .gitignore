@@ -12,6 +12,9 @@ collabloc_time.txt
 # 大型資料與模型權重
 third_party/netvlad
 
+# 本機下載快取
+/.cache/
+
 # Python / Jupyter
 __pycache__/
 *.pyc
