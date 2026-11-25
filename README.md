@@ -16,9 +16,9 @@
 
 ## Github 連結
 
-server: https://github.com/fakraze/collabLoc-server
-client: https://github.com/snowycorn/CollabLoc-client
-local receiver: https://github.com/snowycorn/CollabLoc-Local-Receiver
+- server: https://github.com/fakraze/collabLoc-server
+- client: https://github.com/snowycorn/CollabLoc-client
+- local receiver: https://github.com/snowycorn/CollabLoc-Local-Receiver
 
 ## Overview
 
