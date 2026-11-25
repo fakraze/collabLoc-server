@@ -20,15 +20,15 @@
 ## Overview
 
 ### 建模流程
-![alt text](doc/model-construction.png)
+<img src="doc/model-construction.png" alt="建模流程" width="350">
 
 ### 系統程式互動架構
 
-![alt text](doc/system-architecture.png)
+<img src="doc/system-architecture.png" alt="系統程式互動架構" width="350">
 
 ### Scale 計算流程
 
-![alt text](doc/scale-calibration.png)
+<img src="doc/scale-calibration.png" alt="Scale 計算流程" width="350">
 
 ## 操作流程
 
